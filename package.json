@@ -1,0 +1,28 @@
+{
+  "name": "pugs-of-flickr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vscode-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingsamanimations/pugs-of-flickr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kingsamanimations/pugs-of-flickr/issues"
+  },
+  "homepage": "https://github.com/kingsamanimations/pugs-of-flickr#readme",
+  "dependencies": {
+    "chai": "^6.2.2"
+  },
+  "devDependencies": {
+    "@vscode/test-cli": "^0.0.12",
+    "@vscode/test-electron": "^2.5.2"
+  }
+}
